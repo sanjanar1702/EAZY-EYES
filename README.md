@@ -1,4 +1,4 @@
-# Gaze_Controlled_Keyboard
+# EAZY-EYES
 
 ## Table of Content:
 * [Overview](https://github.com/sanjanar1702/EAZY-EYES#Overview)
@@ -83,10 +83,6 @@ This is a left side keyboard.
 Basically we are lighting up a letter for 10 frames, and after that we light up the next one, so that when we reach the letter we want to press, we simply close our eyes and it gets pressed.
 
 
-**Final result**
-
-![Screenshot (206)](https://user-images.githubusercontent.com/44902363/85778920-b32bbf00-b740-11ea-973d-e5fdc864ba21.png)
-
 Thus able to type hello through my eye motion.
 
 
@@ -98,9 +94,9 @@ Thus able to type hello through my eye motion.
 
 ### Author
 
-#### Shubhangi Dabral (ShubhangiDabral13)
-<a href="https://twitter.com/Shubhi_Dabral"><img 
-src="https://news.wjct.org/sites/wjct/files/styles/medium/public/201407/v65oai7fxn47qv9nectx.png" align="left" height="50" width="50" ></a>
-<a href="https://www.linkedin.com/in/shubhangi-dabral-b79705145/"><img src="https://cdn2.iconfinder.com/data/icons/simple-social-media-shadow/512/14-512.png" align="left" height="60" width="60" ></a>
+#### SANJANA R
+
+
+<a href="https://www.linkedin.com/in/sanjana-r-a68529291/"><img src="https://cdn2.iconfinder.com/data/icons/simple-social-media-shadow/512/14-512.png" align="left" height="60" width="60" ></a>
 
 
