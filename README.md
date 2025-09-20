@@ -1,10 +1,10 @@
 # Gaze_Controlled_Keyboard
 
 ## Table of Content:
-* [Overview](https://github.com/ShubhangiDabral13/Gaze_Controlled_Keyboard#Overview)
-* [Motivation](https://github.com/ShubhangiDabral13/Gaze_Controlled_Keyboard#Motivation)
-* [Core-Logic](https://github.com/ShubhangiDabral13/Gaze_Controlled_Keyboard#Core-Logic)
-* [Inspiration From](https://github.com/ShubhangiDabral13/Gaze_Controlled_Keyboard#Inspiration-From)
+* [Overview](https://github.com/sanjanar1702/EAZY-EYES#Overview)
+* [Motivation](https://github.com/sanjanar1702/EAZY-EYES#Motivation)
+* [Core-Logic](https://github.com/sanjanar1702/EAZY-EYES#Core-Logic)
+* [Inspiration From](https://github.com/sanjanar1702/EAZY-EYES#Inspiration-From)
 
 
 ## Overview 
